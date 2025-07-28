@@ -4,7 +4,7 @@ class StringCalculator
     return 0 if numbers.strip.empty?
 
     delimiter = /,|\n/
-    if numbers.start_with?("//")
+    if numbers.start_with?('//')
       delimiter_line, numbers = numbers.split("\n", 2)
       custom_delimiter = delimiter_line[2..]
       # Regex to escape the delimiter.
