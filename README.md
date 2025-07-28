@@ -1,6 +1,6 @@
 # String Calculator – TDD Kata (Ruby on Rails)
 
-This is a test-driven implementation of the **String Calculator Kata** as part of a coding exercise, developed using Ruby and RSpec. 
+This is a test-driven implementation of the **String Calculator Kata**, developed using Ruby and RSpec. 
 ---
 
 ## Problem Statement
